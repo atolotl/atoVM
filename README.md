@@ -10,4 +10,4 @@ unlike my old project [mqhirr/brainfuck-jit](https://github.com/mqhirr/brainfuck
 ### dependencies
 [fmtlib/fmt](https://github.com/fmtlib/fmt) </br>
 [Neargye/magic_enum](https://github.com/Neargye/magic_enum) </br>
-[herumi/xbyak](hthttps://github.com/herumi/xbyak)
+[herumi/xbyak](https://github.com/herumi/xbyak)
