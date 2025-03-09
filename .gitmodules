@@ -1,0 +1,11 @@
+[submodule "vendor/fmt"]
+	path = vendor/fmt
+	url = https://github.com/fmtlib/fmt.git
+	
+[submodule "vendor/magic_enum"]
+	path = vendor/magic_enum
+	url = https://github.com/Neargye/magic_enum
+
+[submodule "vendor/xbyak"]
+	path = vendor/xbyak
+	url = https://github.com/herumi/xbyak
